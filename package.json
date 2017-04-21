@@ -1,0 +1,22 @@
+{
+  "name": "vrdemo",
+  "version": "0.3.0-beta6",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dev.js",
+    "deploy": "ghpages",
+    "ghpages": "ghpages"
+  },
+  "devDependencies": {
+    "budo": "^7.0.0",
+    "ghpages": "0.0.3"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "vr",
+    "webvr"
+  ]
+}
